@@ -1,1 +1,3 @@
 This is another test file to be committed to my git repository
+
+...and this is the first change of this file
